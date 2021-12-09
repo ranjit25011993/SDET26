@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-09T08:14:09Z" name="Default suite" finished-at="2021-12-09T08:14:09Z" duration-ms="34">
+  <suite started-at="2021-12-09T08:21:26Z" name="Default suite" finished-at="2021-12-09T08:21:26Z" duration-ms="31">
     <groups>
     </groups>
-    <test started-at="2021-12-09T08:14:09Z" name="Default test" finished-at="2021-12-09T08:14:09Z" duration-ms="34">
+    <test started-at="2021-12-09T08:21:26Z" name="Default test" finished-at="2021-12-09T08:21:26Z" duration-ms="31">
       <class name="SDET20practice.CreateTest">
-        <test-method signature="createTest()[pri:0, instance:SDET20practice.CreateTest@14f9390f]" started-at="2021-12-09T08:14:09Z" name="createTest" finished-at="2021-12-09T08:14:09Z" duration-ms="12" status="PASS">
+        <test-method signature="createTest()[pri:0, instance:SDET20practice.CreateTest@14f9390f]" started-at="2021-12-09T08:21:26Z" name="createTest" finished-at="2021-12-09T08:21:26Z" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTest -->
