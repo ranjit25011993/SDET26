@@ -6,6 +6,7 @@ public class CreateTest {
 	@Test
 	public void createTest() {
 		System.out.println("test pass");
+		System.out.println("test pass-2");
 		
 		
 		
