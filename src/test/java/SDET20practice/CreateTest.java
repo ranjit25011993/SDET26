@@ -9,14 +9,11 @@ public class CreateTest {
 		System.out.println("test pass-2");
 		System.out.println("test pass-3");
 		System.out.println("test pass-4");
-		System.out.println("test pass form new user");
+		System.out.println("test poas-9");
+
 		System.out.println("test poas-5");
 		System.out.println("test poas-7");
-		
-		
-		
-		
-		
+
 	}
 
 }
