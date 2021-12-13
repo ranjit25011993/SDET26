@@ -4,6 +4,11 @@
   <artifactId>SDET20</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  
+  <properties>
+  <maven.compiler.source>1.8</maven.compiler.source>
+  <maven.compiler.targer>1.8</maven.compiler.targer>
+  </properties>
    <dependencies>
   <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
@@ -41,7 +46,6 @@
     <artifactId>poi-ooxml</artifactId>
     <version>4.1.2</version>
 </dependency>
-  
   
   
   
